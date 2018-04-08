@@ -1,0 +1,22 @@
+{
+    "name": "cap",
+    "displayName": "captain america",
+    "description": "Inspired by Marvel's Captain America ",
+    "version": "0.0.1",
+    "publisher": "ChayMankala",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Captain America",
+                "uiTheme": "vs",
+                "path": "./themes/Captain America-color-theme.json"
+            }
+        ]
+    }
+}
