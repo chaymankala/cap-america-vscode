@@ -3,7 +3,8 @@
     "displayName": "captain america",
     "description": "Inspired by Marvel's Captain America ",
     "version": "0.0.1",
-    "publisher": "ChayMankala",
+    "publisher": "chaymankala",
+    "repository": "https://github.com/chaymankala/cap-america-vscode.git",
     "engines": {
         "vscode": "^1.22.0"
     },
