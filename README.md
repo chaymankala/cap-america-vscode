@@ -7,4 +7,4 @@
 
 
 ****
-<img src="assets/screenshot1.png" style="float: left; margin-right: 10px;" />
+<img src="https://preview.ibb.co/iBfJnH/screenshot1.png" style="float: left; margin-right: 10px;" />
